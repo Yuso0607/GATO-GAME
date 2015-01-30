@@ -28,9 +28,9 @@ public class Game {
     }
     
     ////////////////////////////////////////
-    public void setError(boolean i)
+    public void setError(boolean pBoolean)
     {
-        error = i;
+        error = pBoolean;
     }
 
     ////////////////////////////////////////
@@ -40,9 +40,9 @@ public class Game {
     }
     
     /////////////////////////////////////////
-    public void setPlayer(int num)
+    public void setPlayer(int pNum)
     {
-        player = num;
+        player = pNum;
     }
 
     ////////////////////////////////////////
